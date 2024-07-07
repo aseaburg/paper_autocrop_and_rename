@@ -1,0 +1,1 @@
+to use just place the rename-crop-linux.py in the same folder your desired sketchbook folder resides in. Then, in the python script, change src value to location of your source folder, change dest to the desired name of your output folder, and prefix to whatever you want your individual files to be prefixed with.  
